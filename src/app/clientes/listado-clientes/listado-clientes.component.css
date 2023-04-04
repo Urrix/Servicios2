@@ -1,0 +1,22 @@
+article {
+  display: flex;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+  font-size: 0.9em;
+}
+span {
+  display: inline-block;
+  width: 22%;
+  margin-right: 2%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgba(178, 178, 248, 0.473);
+}
+h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  color: rgb(2, 0, 124);
+}
+#nc {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
